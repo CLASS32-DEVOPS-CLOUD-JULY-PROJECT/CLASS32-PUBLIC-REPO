@@ -3,3 +3,6 @@ you're highly favoredd
 add the alias of the repository
 eg
 git remote add https://github.com/CLASS32-DEVOPS-CLOUD-JULY-PROJECT/CLASS32-PUBLIC-REPO.git
+
+you must practice pull request
+file is making progress.
